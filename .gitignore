@@ -1,0 +1,33 @@
+### Intellij ###
+/.idea/
+*.iml
+*.ipr
+
+# CMake
+cmake-build-*/
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# Build files
+/target/
+
+# Ignore confidential resource files
+src/main/resources/application-staging.properties
+src/main/resources/application-production.properties

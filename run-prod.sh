@@ -1,0 +1,1 @@
+nohup java -jar -Dspring.profiles.active=production khwish-backend-0.0.1.jar --server.port=8080 > logs.txt &

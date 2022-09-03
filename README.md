@@ -1,5 +1,5 @@
 ## Khwish-backend
-This is a Spring Boot based backend server application written in Java 8.
+This is a Spring Boot server application written in Java 8.
 This is the backend for the Khwish platform, which handles the following tasks:
 - User login & signup via Google, Facebook, and Phone Number using Firebase & Facebook integration 
 - User onboarding and User authentication
